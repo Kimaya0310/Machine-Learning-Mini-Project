@@ -1,0 +1,63 @@
+{
+  "tables": {
+    "orders": {
+      "shape": [
+        666195,
+        7
+      ],
+      "missing": {
+        "days_since_prior_order": 40000
+      },
+      "duplicate_rows": 0
+    },
+    "prior": {
+      "shape": [
+        6331636,
+        4
+      ],
+      "missing": {},
+      "duplicate_rows": 0
+    },
+    "train": {
+      "shape": [
+        422290,
+        4
+      ],
+      "missing": {},
+      "duplicate_rows": 0
+    },
+    "products": {
+      "shape": [
+        49688,
+        4
+      ],
+      "missing": {},
+      "duplicate_rows": 0
+    },
+    "aisles": {
+      "shape": [
+        134,
+        2
+      ],
+      "missing": {},
+      "duplicate_rows": 0
+    },
+    "departments": {
+      "shape": [
+        21,
+        2
+      ],
+      "missing": {},
+      "duplicate_rows": 0
+    }
+  },
+  "headline": {
+    "users": 40000,
+    "orders": 666195,
+    "prior_items": 6331636,
+    "products": 49688,
+    "reorder_rate": 0.5899,
+    "avg_basket_size": 9.98,
+    "median_days_between_orders": 7.0
+  }
+}

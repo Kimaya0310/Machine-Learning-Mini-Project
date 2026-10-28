@@ -1,0 +1,4 @@
+segment,segment_name,users,share_pct,n_orders,avg_days_between,basket_size,reorder_ratio,distinct_products,organic_share,produce_share,snacks_share,avg_order_hour,weekend_share
+0,Fresh-produce Organic shoppers,12893,32.2,7.062437,17.951126,10.555832,0.33900276,43.712013,0.3920758,0.41027433,0.053179245,13.799506,0.4177529
+1,Frequent Wide-range shoppers,14111,35.3,31.006378,9.932518,11.854046,0.61298096,114.55524,0.3091996,0.293576,0.087130554,13.427328,0.35309246
+2,Narrow-range Occasional shoppers,12996,32.5,7.5106187,18.018063,7.3600106,0.32932767,32.062557,0.11408493,0.13388748,0.12682238,13.554094,0.29575157
